@@ -1,8 +1,0 @@
-@charset "UTF-8";
-
-@font-face {
-  font-family: '조선일보';
-  src: url('fonts/조선일보명조.ttf') format('truetype');
-}
-
-.test{ font-family: '조선일보'; }
